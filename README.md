@@ -1,8 +1,6 @@
 # nobroker-test
 Nobroker UI interview assignment
 
-Find the app hosted at https://sirius93.github.io/nobroker-test/
-
 features Implemented:
  * Sort By :
     * Rent :heavy_check_mark:
